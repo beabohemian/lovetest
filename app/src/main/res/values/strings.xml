@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoveTest</string>
+    <string name="main_title">당신의 사랑 유형을 찾아보세요!</string>
+    <string name="qusetion">여기 꽃병에는 당신의 좋아하는 꽃이 있습니다<br></br>
+    시간이 지나고 꽃이 모두 시들었습니다<br></br>
+    당신은 어떤 행동을 하시겠습니까?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
